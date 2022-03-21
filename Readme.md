@@ -1,6 +1,6 @@
 ﻿# ![Logo](Logo.png) NSudo - System Administration Toolkit For Winget
 
-## Warning! This item no't start now only if we found the right way of rebuilding itself
+## Warning! This item will start only if we found the right way of rebuilding itself
 
 [![AppVeyor CI](https://ci.appveyor.com/api/projects/status/github/M2Team/NSudo?branch=master&svg=true)](https://ci.appveyor.com/project/MouriNaruto/nsudo)
 [![Latest Version](https://img.shields.io/github/release/M2Team/NSudo.svg)](https://github.com/M2Team/NSudo/releases/latest)
